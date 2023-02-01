@@ -16,7 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+
+<a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%201%20CURSOR%20TRAIL/Cursor%20Trail.html" target="blank"> PROJECT-1 CURSOR TRAIL </a> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100089005973291" target="blank"><img align="center" src="https://i.pinimg.com/originals/11/8f/29/118f29a851cdb9e65bcbf47673b3067b.jpg" alt="siddharth singhai" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/mr_programming_ig/" target="blank"><img align="center" src="https://cdn.dribbble.com/users/411475/screenshots/13265096/media/604401ae24a086c3739f4ebcdbc4e792.png" alt="mr_programming_ig" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UC7st_LK25LxpJi86YXsoBSg" target="blank"><img align="center" src="https://cdn.dribbble.com/users/411475/screenshots/13751544/youtube_1.3_af_4x.png" alt="mr programming" height="30" width="40" /></a>

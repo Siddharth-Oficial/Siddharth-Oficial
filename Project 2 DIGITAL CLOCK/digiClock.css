@@ -1,0 +1,199 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+::-webkit-scrollbar{display: none;}
+
+.clockBG{
+    z-index: 2;
+    display: flex;
+    height: 75vh; 
+    width: 80vw;  
+    min-width: 300px; 
+    max-width: 1000px;
+    min-height: 400px;
+    position: absolute;
+    background: url("./clock BG.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    box-shadow: 5px 5px 10px gray,
+    5px 5px 7px gray, 5px 5px 5px gray;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock{
+    z-index: 4;
+    display: flex;
+    height: 70%;
+    aspect-ratio: 1/1;
+    position: absolute;
+    right: 5%; top: 7%;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid orange;
+    box-shadow: 0 0 5px #313030,
+    inset 4px 4px 5px #000000ce,
+    5px 5px 5px #000000ce;
+}
+
+.angles{
+    z-index: 6;
+    height: 10%; 
+    width: 100%;
+    display: flex;
+    position: absolute; 
+    align-items: center; 
+}
+
+.deg90{
+    transform: rotate(90deg);
+}
+
+.deg90::before{
+    content: " ";
+    width: 8%; 
+    height: 30%;
+    left: 2%;
+    position: inherit;
+    background: white;
+    border-radius: 50px;
+    border: 1px solid #ff0;
+    box-shadow: inset 0 0 8px orange,
+    inset 0 0 8px orange, inset 0 0 8px orange,
+    0 0 5px #ff0, 0 0 5px #ff0, 0 0 1px #fff, 
+    0 0 1px #fff, 0 0 1px #fff, 0 0 1px #fff;
+}
+
+.deg90::after{
+    content: " ";
+    width: 8%; 
+    height: 30%;
+    right: 2%;
+    position: inherit;
+    background: white;
+    border-radius: 50px;
+    border: 1px solid #ff0;
+    box-shadow: inset 0 0 8px orange,
+    inset 0 0 8px orange, inset 0 0 8px orange,
+    0 0 5px #ff0, 0 0 5px #ff0, 0 0 1px #fff, 
+    0 0 1px #fff, 0 0 1px #fff, 0 0 1px #fff;
+}
+
+.deg180{
+    transform: rotate(180deg); 
+}
+
+.deg180::before{
+    content: " ";
+    width: 8%; 
+    height: 30%;
+    left: 2%;
+    position: inherit;
+    background: white;
+    border-radius: 50px;
+    border: 1px solid #ff0;
+    box-shadow: inset 0 0 8px orange,
+    inset 0 0 8px orange, inset 0 0 8px orange,
+    0 0 5px #ff0, 0 0 5px #ff0, 0 0 1px #fff, 
+    0 0 1px #fff, 0 0 1px #fff, 0 0 1px #fff;
+}
+
+.deg180::after{
+    content: " ";
+    width: 8%; 
+    height: 30%;
+    right: 2%;
+    position: inherit;
+    background: white;
+    border-radius: 50px;
+    border: 1px solid #ff0;
+    box-shadow: inset 0 0 8px orange,
+    inset 0 0 8px orange, inset 0 0 8px orange,
+    0 0 5px #ff0, 0 0 5px #ff0, 0 0 1px #fff, 
+    0 0 1px #fff, 0 0 1px #fff, 0 0 1px #fff;
+}
+
+.centerPoint{
+    z-index: 10;
+    width: 10%;
+    position: inherit;
+    aspect-ratio: 1/1;
+    background: #fff;
+    border-radius: 100%;
+    box-shadow: 0 0 10px #ff0,
+    0 0 10px #ff0, 0 0 10px #ff0;
+}
+
+.centerPoint::after{
+    content: " ";
+    inset: 10%;
+    background: orange;
+    position: inherit;
+    border-radius: 100%;
+}
+
+.nodes{
+    z-index: 5;
+    height: 30%;
+    width: 2%;
+    bottom: 50%;
+    position: absolute;
+    background: black;
+    box-shadow: 0 0 5px black;
+    transform-origin: bottom;
+}
+
+.nodeHrs{
+    transition: 1.5s;
+}
+
+.nodeMin{
+    z-index: 7;
+    width: 1%;
+    height: 45%;
+    transition: 0.5s;
+}
+
+.nodeSec{
+    z-index: 6;
+    width: 0.5%;
+    height: 45%;
+    background: #fff;  
+}
+
+.environment{
+    height: 15%;
+    width: 30%;
+    z-index: 10;
+    bottom: 15%;
+    display: flex;
+    
+    position: inherit;
+    color: transparent;
+    align-items: center;
+    background: transparent;
+    font-family: monospace;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    font-size: clamp(1em, 1.2vw, 2em);
+    justify-content: space-around;
+    text-shadow: 0 0 5px #000;
+    box-shadow: inset 0 0 10px #ff0,
+    0 0 10px #ff0;
+}
+
+

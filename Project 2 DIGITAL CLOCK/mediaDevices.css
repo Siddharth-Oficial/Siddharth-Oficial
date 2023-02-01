@@ -1,0 +1,51 @@
+
+/* dynamic size of clock and area */
+
+@media screen and (max-width: 950px) {
+    .clockBG {
+        background-image: none;
+        background-color: orange;
+        width: 90vw;
+    }
+    .clock{
+        top: auto;
+        right: auto;
+    }
+  }
+
+ @media screen and (max-width: 500px) {
+    .clockBG {
+        background-image: none;
+        background-color: orange;
+        height: 60vh;
+    }
+    .clock{
+        height: 60%;
+    }
+  }
+
+
+
+  /* dynamic size of font-sizes */
+
+  @media screen and (max-width: 1280px) {
+    .environment{
+        font-size: 1.6vw;
+    }
+  }
+
+  @media (min-width: 600px) and (max-width: 920px) {
+    .environment{
+        font-size: 4vw;
+    }
+}
+
+  @media screen and (max-width: 600px) {
+    .environment{
+        font-size: 4vw;
+    }
+  } 
+
+
+  
+  

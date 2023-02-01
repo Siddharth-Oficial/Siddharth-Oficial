@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="digiClock.css" type="text/css">
+    <link rel="stylesheet" href="mediaDevices.css" type="text/css">
+    <title>Digital-Clock</title>
+</head>
+
+<body>
+
+    <!-- clock arena -->
+    <section class="clockBG">
+
+        <!-- clock set-Up -->
+        <div class="clock">
+
+            <!-- clock dimensions -->
+            <div class="angles deg90"></div>
+            <div class="angles deg180"></div>
+
+            <!-- clock center point -->
+            <div class="centerPoint"></div>
+
+            <!-- clock nodes -->
+            <div class="nodes nodeHrs"></div>
+            <div class="nodes nodeMin"></div>
+            <div class="nodes nodeSec"></div>
+
+            <!-- day / night === AM / PM -->
+            <div class="environment">
+                <span class="apm am"> a.m </span>
+                <span class="apm pm"> p.m </span>
+            </div>
+
+        </div>
+
+    </section>
+
+</body>
+
+<!-- clock scripting functions -->
+<script defer src="digiClock.js" type="text/javascript"></script>
+
+</html>
+

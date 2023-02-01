@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%201%20CURSOR%20TRAIL/Cursor%20Trail.html" target="blank"> PROJECT-1 CURSOR TRAIL </a> 
+<a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%201%20CURSOR%20TRAIL/Cursor%20Trail.html" target="_blank"> PROJECT-1 CURSOR TRAIL </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

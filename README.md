@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am Funny because I am not actually**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Projects:</h3>
 <p align="left">
 <a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%201%20CURSOR%20TRAIL/Cursor%20Trail.html" target="_blank"> PROJECT-1 CURSOR TRAIL </a> <br>
 <a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%202%20DIGITAL%20CLOCK/digiClock.html" target="_blank"> PROJECT-2 DIGITAL CLOCK </a>

@@ -20,12 +20,14 @@
 <a href="https://siddharth-oficial.github.io/Siddharth-Oficial/Project%202%20DIGITAL%20CLOCK/digiClock.html" target="_blank"> PROJECT-2 DIGITAL CLOCK </a>
 </p>
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100089005973291" target="blank"><img align="center" src="https://i.pinimg.com/originals/11/8f/29/118f29a851cdb9e65bcbf47673b3067b.jpg" alt="siddharth singhai" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/sidddharth_jain_singhai/" target="blank"><img align="center" src="https://cdn.dribbble.com/users/411475/screenshots/13265096/media/604401ae24a086c3739f4ebcdbc4e792.png" alt="mr_programming_ig" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UC7st_LK25LxpJi86YXsoBSg" target="blank"><img align="center" src="https://cdn.dribbble.com/users/411475/screenshots/13751544/youtube_1.3_af_4x.png" alt="mr programming" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg" alt="bootstrap" width="40" height="40"/> </a> 

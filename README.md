@@ -23,10 +23,10 @@
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100090073390183" target="blank"><img align="center" src="https://i.pinimg.com/originals/11/8f/29/118f29a851cdb9e65bcbf47673b3067b.jpg" alt="siddharth jain singhai" height="30" width="40" /></a> 
+<a href="https://www.facebook.com/profile.php?id=100090073390183" target="blank"><img align="center" src="https://i.pinimg.com/originals/11/8f/29/118f29a851cdb9e65bcbf47673b3067b.jpg" alt="Facebook" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/siddharth_jain_singhai_21/" target="blank"><img align="center"
-src="https://cdn.dribbble.com/users/411475/screenshots/13265096/media/604401ae24a086c3739f4ebcdbc4e792.png" alt="siddharth_jain_singhai_21" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+src="https://cdn.dribbble.com/users/411475/screenshots/13265096/media/604401ae24a086c3739f4ebcdbc4e792.png" alt="Instagram" height="30" width="40" /></a>
+<a href="https://web.telegram.org/k/#-1894231251" target="blank"><img align="center" src="https://preview.redd.it/1ef7aleg6m771.png?auto=webp&s=e8634be674e681a89eeb6a7c18d834aab00f4baa" alt="Telegram" height="30" width="40" /></a>
 </p>
 -->
 
